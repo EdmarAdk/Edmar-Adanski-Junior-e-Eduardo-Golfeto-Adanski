@@ -1,0 +1,4 @@
+Nome: Edmar Adanski Junior RA:26007135-2
+Nome: Eduardo Golfeto Adanski RA:26007368-2
+
+Aprender GitHub do zero ao deploy é entender como organizar, salvar e compartilhar seu código. Primeiro, você cria um repositório no seu computador e usa o Git para acompanhar as mudanças no projeto. Depois, conecta esse repositório ao GitHub, onde tudo fica salvo na nuvem e pode ser acessado de qualquer lugar. Isso também facilita o trabalho em equipe. Por fim, o deploy é quando você coloca sua aplicação no ar, permitindo que outras pessoas acessem pela internet e vejam o resultado funcionando na prática.
